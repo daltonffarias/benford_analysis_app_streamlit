@@ -1,4 +1,4 @@
-# projetoapp_streamlit
+# benford_analysis_app_streamlit
 
 A análise matemática realizada neste código se baseia na Lei de Benford, que descreve a distribuição natural dos dígitos iniciais em muitos conjuntos de dados do mundo real.
 
