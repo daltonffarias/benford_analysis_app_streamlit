@@ -89,9 +89,9 @@ if st.button("Analisar"):
         # Análise detalhada da confiabilidade dos dados
         st.subheader("Análise da Confiabilidade dos Dados")
         st.write("### Indícios de Manipulação dos Dados:")
-        st.markdown("- Quando a distribuição observada se desvia significativamente da distribuição esperada pela Lei de Benford, especialmente para os primeiros dígitos (1 e 2).")
+        st.markdown("- Quando a distribuição observada se desvia significativamente da distribuição esperada pela Lei de Benford, observe o gráfico.")
         st.markdown("- Quanto maior a diferença entre as duas distribuições, maior a suspeita de possível manipulação dos dados.")
-        st.markdown("- Por exemplo, no gráfico apresentado, se a distribuição observada for muito maior que a esperada para os dígitos 1 e 2, e muito menor para os dígitos 3 a 9, isso é um forte indício de manipulação.")
+        st.markdown("- Por exemplo, no gráfico apresentado, se a distribuição observada for muito maior que a esperada, e muito menor para outros dígitos, isso é um forte indício de manipulação.")
 
         st.write("### Dados Confiáveis:")
         st.markdown("- Quando a distribuição observada se aproxima muito da distribuição esperada pela Lei de Benford.")
@@ -102,7 +102,7 @@ if st.button("Analisar"):
         st.markdown("- Quanto maior o desvio da distribuição observada em relação à distribuição de Benford, mais suspeita de manipulação dos dados.")
         st.markdown("- Quanto mais próximas as duas distribuições, maior a confiabilidade dos dados analisados.")
 
-        st.info("Essa análise comparativa entre a distribuição observada e a distribuição de Benford é uma ferramenta útil para identificar possíveis irregularidades nos dados.")
+        st.info("Este tipo de análise comparativa entre a distribuição observada e a distribuição de Benford é uma ferramenta útil para identificar possíveis irregularidades nos dados.")
 
 
 
