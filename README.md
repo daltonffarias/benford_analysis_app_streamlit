@@ -19,7 +19,7 @@ Comparação com a Distribuição de Benford:
 A distribuição observada é comparada visualmente com a distribuição esperada de acordo com a Lei de Benford.
 Isso é feito utilizando um gráfico de barras, onde as barras representam a distribuição observada e a linha vermelha representa a distribuição esperada de Benford.
 A comparação entre a distribuição observada e a distribuição esperada de Benford pode revelar se os dados seguem o padrão esperado pela Lei de Benford ou se há indícios de possíveis irregularidades ou manipulação dos números
-
+---------------------------------------------------------------------------------------------------------------------
 The mathematical analysis performed in this code is based on Benford's Law, which describes the natural distribution of leading digits in many real-world datasets.
 
 Detailed Explanation of the Mathematical Analysis:
