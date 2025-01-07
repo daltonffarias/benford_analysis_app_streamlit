@@ -20,3 +20,7 @@ Comparação com a Distribuição de Benford:
 A distribuição observada é comparada visualmente com a distribuição esperada de acordo com a Lei de Benford.
 Isso é feito utilizando um gráfico de barras, onde as barras representam a distribuição observada e a linha vermelha representa a distribuição esperada de Benford.
 A comparação entre a distribuição observada e a distribuição esperada de Benford pode revelar se os dados seguem o padrão esperado pela Lei de Benford ou se há indícios de possíveis irregularidades ou manipulação dos números
+
+Link direto para o App
+
+https://projetoappapp-ekokniffmdxkcgye8wiasy.streamlit.app/
