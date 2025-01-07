@@ -87,7 +87,6 @@ if st.button("Analisar"):
         st.dataframe(combined_df)
 
         # Análise detalhada da confiabilidade dos dados
-        st.subheader("Análise da Confiabilidade dos Dados")
         st.write("### Indícios de Manipulação dos Dados:")
         st.markdown("- Quando a distribuição observada se desvia significativamente da distribuição esperada pela Lei de Benford, observe o gráfico.")
         st.markdown("- Quanto maior a diferença entre as duas distribuições, maior a suspeita de possível manipulação dos dados.")
